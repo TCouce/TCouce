@@ -1,7 +1,5 @@
 ### Hi there 👋, My name is Tito
 #### I am a data analyst and a marine biologist
-![I am a data analyst and a marine biologist](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 I currently work as a data analyst and research assistant. In my free time, I dedicate myself to improving my skills as a programmer and data scientist. I also enjoy activities such as scuba diving, boxing and strength training.
 
 - 🔭 I’m currently working on My TFM project and my collection of Github repos. 
