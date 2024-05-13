@@ -13,9 +13,7 @@ I currently work as a data analyst and research assistant. In my free time, I de
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TCouce)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TCouce&show_icons=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=TCouce)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TCouce&show_icons=true)   
 
 #### Skills
 
